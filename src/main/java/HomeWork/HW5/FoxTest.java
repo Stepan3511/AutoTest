@@ -19,6 +19,7 @@ public class FoxTest {
     @BeforeAll
     static void registerDriver() {
         WebDriverManager.chromedriver().setup();
+
     }
 
     @BeforeEach
@@ -26,6 +27,7 @@ public class FoxTest {
         driver = new ChromeDriver();
         webDriverWait = new WebDriverWait(driver, Duration.ofSeconds(5));
         driver.get("https://mister-fox.ru/catalog/10010/839740");
+
     }
 
     @Test
@@ -36,10 +38,12 @@ public class FoxTest {
         Thread.sleep(5000);
 
         Assertions.assertTrue(driver.getCurrentUrl().contains("catalog"));
+
     }
 
     @AfterEach
     void tearDown() {
         driver.manage().deleteAllCookies();
+
     }
 }
