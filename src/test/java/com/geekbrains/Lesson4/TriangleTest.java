@@ -1,6 +1,5 @@
 package com.geekbrains.Lesson4;
 
-import Lesson4.TriangleArea;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
