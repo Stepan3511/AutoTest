@@ -2,10 +2,7 @@ package com.geekbrains.Lesson6;
 
 import HomeWork.HW6.LoginPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
@@ -36,7 +33,7 @@ public class Tester {
         loginPage.passwordField.sendKeys("stefano3511g40");
         loginPage.singInButton.click();
         Thread.sleep(5000);
-
+        Assertions.assertTrue(driver.getCurrentUrl().contains("tester"));
 
     }
 
