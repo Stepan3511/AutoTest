@@ -27,7 +27,6 @@ public class TestLess3 {
 
     }
 
-
     @Test
     public void emptyStringTest() throws Exception {
         input = "";
