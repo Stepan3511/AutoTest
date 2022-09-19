@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "c8b7d78c3bf5575d230d2dfeaf19e27a",
+    "name" : "com.geekbrains.Lesson6.Tester",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1c30ccfccd2c7d5d88b2d4a5c0a30d3c",
+    "name" : "com.geekbrains.Lesson4.FunctionsTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "b653cee9a0014e7d97d16f675e543642",
+    "name" : "com.geekbrains.Lesson4.TriangleTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

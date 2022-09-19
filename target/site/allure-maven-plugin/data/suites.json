@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.geekbrains.Lesson4.FunctionsTest",
+    "children" : [ {
+      "name" : "checkWordWithOneCharacterIsPalindrome()",
+      "uid" : "2b8e1dd1df9ccbae",
+      "parentUid" : "1c30ccfccd2c7d5d88b2d4a5c0a30d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660827178901,
+        "stop" : 1660827178937,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест проверяет метод isPalindrome с палиндромом",
+      "uid" : "37525f8b78a21b52",
+      "parentUid" : "1c30ccfccd2c7d5d88b2d4a5c0a30d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660827179099,
+        "stop" : 1660827179100,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1c30ccfccd2c7d5d88b2d4a5c0a30d3c"
+  }, {
+    "name" : "com.geekbrains.Lesson4.TriangleTest",
+    "children" : [ {
+      "name" : "successCalculationTest()",
+      "uid" : "e5d4af41d08c197",
+      "parentUid" : "b653cee9a0014e7d97d16f675e543642",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660828353357,
+        "stop" : 1660828353396,
+        "duration" : 39
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b653cee9a0014e7d97d16f675e543642"
+  }, {
+    "name" : "com.geekbrains.Lesson6.Tester",
+    "children" : [ {
+      "name" : "putDressToCart()",
+      "uid" : "ae84e2f908f68b55",
+      "parentUid" : "c8b7d78c3bf5575d230d2dfeaf19e27a",
+      "status" : "broken",
+      "time" : {
+        "start" : 1661167885410,
+        "stop" : 1661167899786,
+        "duration" : 14376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c8b7d78c3bf5575d230d2dfeaf19e27a"
+  } ]
+}

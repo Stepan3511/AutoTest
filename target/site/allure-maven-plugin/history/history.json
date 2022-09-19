@@ -1,0 +1,79 @@
+{
+  "f2beab39039279c71c23ed05a31e6371" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae84e2f908f68b55",
+      "status" : "broken",
+      "statusDetails" : "Compound class names not permitted\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception\nBuild info: version: '4.2.2', revision: '683ccb65d6'\nSystem info: host: 'DESKTOP-R4H3LAA', ip: '192.168.0.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1661167885410,
+        "stop" : 1661167899786,
+        "duration" : 14376
+      }
+    } ]
+  },
+  "fa916d3f50910beba73b36f787b43b2b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b8e1dd1df9ccbae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660827178901,
+        "stop" : 1660827178937,
+        "duration" : 36
+      }
+    } ]
+  },
+  "d78078eca51b724361231fa12cb8e003" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5d4af41d08c197",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660828353357,
+        "stop" : 1660828353396,
+        "duration" : 39
+      }
+    } ]
+  },
+  "3b662223b041929fe8e6f6daa67690ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "37525f8b78a21b52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660827179099,
+        "stop" : 1660827179100,
+        "duration" : 1
+      }
+    } ]
+  }
+}

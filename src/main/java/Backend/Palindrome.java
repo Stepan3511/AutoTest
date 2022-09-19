@@ -28,6 +28,7 @@ public class Palindrome {
                 return false;
             }
         }
+
         return true;
     }
 }

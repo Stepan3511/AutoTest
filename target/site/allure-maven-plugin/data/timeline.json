@@ -1,0 +1,90 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-R4H3LAA",
+    "children" : [ {
+      "name" : "10064@DESKTOP-R4H3LAA.main(1)",
+      "children" : [ {
+        "name" : "putDressToCart()",
+        "uid" : "4ce814f686321291",
+        "parentUid" : "0ff0983d1bcb3ed5d3b9f478b87c5493",
+        "status" : "broken",
+        "time" : {
+          "start" : 1660828363075,
+          "stop" : 1660828377127,
+          "duration" : 14052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ff0983d1bcb3ed5d3b9f478b87c5493"
+    }, {
+      "name" : "14644@DESKTOP-R4H3LAA.main(1)",
+      "children" : [ {
+        "name" : "putDressToCart()",
+        "uid" : "ae84e2f908f68b55",
+        "parentUid" : "fc3c7683d2e9f72afff9c4670eed1428",
+        "status" : "broken",
+        "time" : {
+          "start" : 1661167885410,
+          "stop" : 1661167899786,
+          "duration" : 14376
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc3c7683d2e9f72afff9c4670eed1428"
+    }, {
+      "name" : "14824@DESKTOP-R4H3LAA.main(1)",
+      "children" : [ {
+        "name" : "Тест проверяет метод isPalindrome с палиндромом",
+        "uid" : "37525f8b78a21b52",
+        "parentUid" : "98dee43e3de9bf5ad97670f55b7cccc5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660827179099,
+          "stop" : 1660827179100,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkWordWithOneCharacterIsPalindrome()",
+        "uid" : "2b8e1dd1df9ccbae",
+        "parentUid" : "98dee43e3de9bf5ad97670f55b7cccc5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660827178901,
+          "stop" : 1660827178937,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "98dee43e3de9bf5ad97670f55b7cccc5"
+    }, {
+      "name" : "13500@DESKTOP-R4H3LAA.main(1)",
+      "children" : [ {
+        "name" : "successCalculationTest()",
+        "uid" : "e5d4af41d08c197",
+        "parentUid" : "4c34f9af52278a9e819329c366d4aabc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660828353357,
+          "stop" : 1660828353396,
+          "duration" : 39
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c34f9af52278a9e819329c366d4aabc"
+    } ],
+    "uid" : "3bccc14baa8d18f41c59845b80d30953"
+  } ]
+}
