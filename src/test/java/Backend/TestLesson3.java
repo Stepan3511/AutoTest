@@ -12,17 +12,14 @@ public class TestLess3 {
 
     @Before
     public void setUp() throws Exception {
-
         input = null;
         palindrome = new Palindrome();
-
     }
 
     @After
     public void tearDown() throws Exception {
 
     }
-
     @Test(expected = NullPointerException.class)
     public void nullStringTest() throws Exception {
 
