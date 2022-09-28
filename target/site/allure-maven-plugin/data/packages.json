@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.geekbrains",
+    "children" : [ {
+      "name" : "Lesson4",
+      "children" : [ {
+        "name" : "FunctionsTest",
+        "children" : [ {
+          "name" : "checkWordWithOneCharacterIsPalindrome",
+          "uid" : "2b8e1dd1df9ccbae",
+          "parentUid" : "625ffcbcd9edc0351c83ae83d880e8e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660827178901,
+            "stop" : 1660827178937,
+            "duration" : 36
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "givenPalindromeWhenCallsPalindromeMethodThenTrue",
+          "uid" : "37525f8b78a21b52",
+          "parentUid" : "625ffcbcd9edc0351c83ae83d880e8e5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660827179099,
+            "stop" : 1660827179100,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "625ffcbcd9edc0351c83ae83d880e8e5"
+      }, {
+        "name" : "TriangleTest",
+        "children" : [ {
+          "name" : "successCalculationTest",
+          "uid" : "e5d4af41d08c197",
+          "parentUid" : "4b353db58c535528d53c773efd93829d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1660828353357,
+            "stop" : 1660828353396,
+            "duration" : 39
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4b353db58c535528d53c773efd93829d"
+      } ],
+      "uid" : "efe989db5febb1f4f980a515f0ea9541"
+    }, {
+      "name" : "Lesson6.Tester",
+      "children" : [ {
+        "name" : "putDressToCart",
+        "uid" : "ae84e2f908f68b55",
+        "parentUid" : "dad1214991c22aceac966f5bc54f7322",
+        "status" : "broken",
+        "time" : {
+          "start" : 1661167885410,
+          "stop" : 1661167899786,
+          "duration" : 14376
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "Lesson6.Tester"
+    } ],
+    "uid" : "com.geekbrains"
+  } ]
+}

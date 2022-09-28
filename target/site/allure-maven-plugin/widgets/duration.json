@@ -1,0 +1,41 @@
+[ {
+  "uid" : "e5d4af41d08c197",
+  "name" : "successCalculationTest()",
+  "time" : {
+    "start" : 1660828353357,
+    "stop" : 1660828353396,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37525f8b78a21b52",
+  "name" : "Тест проверяет метод isPalindrome с палиндромом",
+  "time" : {
+    "start" : 1660827179099,
+    "stop" : 1660827179100,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b8e1dd1df9ccbae",
+  "name" : "checkWordWithOneCharacterIsPalindrome()",
+  "time" : {
+    "start" : 1660827178901,
+    "stop" : 1660827178937,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae84e2f908f68b55",
+  "name" : "putDressToCart()",
+  "time" : {
+    "start" : 1661167885410,
+    "stop" : 1661167899786,
+    "duration" : 14376
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

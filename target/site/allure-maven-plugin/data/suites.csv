@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 18 22:12:33 YAKT 2022","Thu Aug 18 22:12:33 YAKT 2022","39","","com.geekbrains.Lesson4.TriangleTest","","com.geekbrains.Lesson4.TriangleTest","successCalculationTest","successCalculationTest()",""
+"passed","Thu Aug 18 21:52:59 YAKT 2022","Thu Aug 18 21:52:59 YAKT 2022","1","","com.geekbrains.Lesson4.FunctionsTest","","com.geekbrains.Lesson4.FunctionsTest","givenPalindromeWhenCallsPalindromeMethodThenTrue","Тест проверяет метод isPalindrome с палиндромом",""
+"passed","Thu Aug 18 21:52:58 YAKT 2022","Thu Aug 18 21:52:58 YAKT 2022","36","","com.geekbrains.Lesson4.FunctionsTest","","com.geekbrains.Lesson4.FunctionsTest","checkWordWithOneCharacterIsPalindrome","checkWordWithOneCharacterIsPalindrome()",""
+"broken","Mon Aug 22 20:31:25 YAKT 2022","Mon Aug 22 20:31:39 YAKT 2022","14376","","com.geekbrains.Lesson6.Tester","","com.geekbrains.Lesson6.Tester","putDressToCart","putDressToCart()",""

@@ -1,0 +1,60 @@
+{
+  "uid" : "e5d4af41d08c197",
+  "name" : "successCalculationTest()",
+  "fullName" : "com.geekbrains.Lesson4.TriangleTest.successCalculationTest",
+  "historyId" : "d78078eca51b724361231fa12cb8e003",
+  "time" : {
+    "start" : 1660828353357,
+    "stop" : 1660828353396,
+    "duration" : 39
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:com.geekbrains.Lesson4.TriangleTest]/[method:successCalculationTest()]"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-R4H3LAA"
+  }, {
+    "name" : "thread",
+    "value" : "13500@DESKTOP-R4H3LAA.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.geekbrains.Lesson4.TriangleTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.geekbrains.Lesson4.TriangleTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "successCalculationTest"
+  }, {
+    "name" : "suite",
+    "value" : "com.geekbrains.Lesson4.TriangleTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5d4af41d08c197.json",
+  "parameterValues" : [ ]
+}
